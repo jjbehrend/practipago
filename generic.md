@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clientes
-description: Fidelizacion
+description: Como se comportan nuestros clientes
 image: assets/images/pic12.jpg
 nav-menu: true
 ---
@@ -16,7 +16,8 @@ nav-menu: true
 		</header>
     </div>    
 <!-- Content -->
-<h2 id="content">Datos sobre los clientes</h2>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1280" height="1040" src="https://public.tableau.com/views/demo_posta_estado/Porestado?:showVizHome=no&:embed=true"></iframe>
+<h2 id="content">Datos sobre los clientes</h2>ç
+
+<iframe width="90%" height="900px" style="border:none;padding-left:10%"  src="https://public.tableau.com/views/demo_posta_estado/Porestado?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
 </div>
 </section>
