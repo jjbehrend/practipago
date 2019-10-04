@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SmartCupons
+title: Cupones Historicos
 image: assets/images/pic12.jpg
 description: Como estamos usando nuestros cupones?
 nav-menu: true
@@ -18,6 +18,6 @@ nav-menu: true
 </div>
 <!-- Content -->
 <h2 id="content">Como estamos usando nuestros cupones?</h2>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1600" allowfullscreen height="1200" src="https://public.tableau.com/views/demo_posta/CuponesHistoricos?:showVizHome=no&:embed=true"></iframe>
+<iframe width="90%" height="900px" style="border:none;padding-left:10%"  src="https://public.tableau.com/views/demo_posta/CuponesHistoricos?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
 </section>
 
